@@ -1,3 +1,7 @@
+🛑🛑🛑 This repository is no longer maintained.  If you still need it, feel free to fork the repository. 🛑🛑🛑
+
+Archived as a part of https://github.com/openedx/public-engineering/issues/432
+
 # frontend-app-learner-portal-programs
 
 # Purpose
